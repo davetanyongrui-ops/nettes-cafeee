@@ -176,7 +176,7 @@ export default function HomePageContent({ content: c, isEditable = false }: Prop
             </Link>
             {/* SECONDARY: Book a Table — ghost/outline */}
             <Link
-              href="/contact"
+              href="/menu"
               className="flex items-center gap-2 px-7 py-3.5 rounded-full bg-transparent text-white font-bold text-sm hover:bg-white/15 transition-all border border-white/50 backdrop-blur-sm min-h-[44px]"
             >
               <CalendarCheck size={16} />
@@ -449,7 +449,7 @@ export default function HomePageContent({ content: c, isEditable = false }: Prop
             </Link>
             {/* SECONDARY: Book a Table — ghost outline */}
             <Link
-              href="/contact"
+              href="/menu"
               className="flex items-center gap-2 px-8 py-4 rounded-full bg-transparent text-[#718355] font-bold text-sm hover:bg-[#718355]/10 transition-all border-2 border-[#718355]/50 hover:border-[#718355] min-h-[44px]"
             >
               <CalendarCheck size={16} />
