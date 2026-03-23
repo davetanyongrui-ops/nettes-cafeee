@@ -467,7 +467,7 @@ export default function AboutView({ settings = {}, isEditable = false }: Props) 
                                     Explore the Menu <ArrowRight size={18} />
                                 </Link>
                                 <Link
-                                    href="/contact"
+                                    href="/menu"
                                     className="px-10 py-5 rounded-full border-2 border-deep-moss/30 text-deep-moss font-bold text-sm hover:bg-deep-moss/10 transition-all"
                                 >
                                     Find a Table
