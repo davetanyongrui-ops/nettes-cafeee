@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Tue: Curry Chicken (Daily Special)",
+        "category": "special",
+        "price": 7.50,
+        "description": "Daily Special for Tuesday.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Wed: Ayam Pongteh (Daily Special)",
+        "category": "special",
+        "price": 7.50,
+        "description": "Daily Special for Wednesday.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Thu: Nasi Lemak (Daily Special)",
+        "category": "special",
+        "price": 7.50,
+        "description": "Daily Special for Thursday.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Fri: Smoked Duck Fried Rice (Daily Special)",
+        "category": "special",
+        "price": 7.50,
+        "description": "Daily Special for Friday.",
+        "is_sold_out": false
+    },
+    {
+        "name": "ABC Chicken Soup (Small)",
+        "category": "soup",
+        "price": 5.50,
+        "description": "Small ABC Chicken Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "ABC Chicken Soup (Reg)",
+        "category": "soup",
+        "price": 6.50,
+        "description": "Regular ABC Chicken Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Radish Soup (Small)",
+        "category": "soup",
+        "price": 5.50,
+        "description": "Small Radish Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Radish Soup (Reg)",
+        "category": "soup",
+        "price": 6.50,
+        "description": "Regular Radish Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Old Cucumber Soup (Small)",
+        "category": "soup",
+        "price": 5.50,
+        "description": "Small Old Cucumber Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Old Cucumber Soup (Reg)",
+        "category": "soup",
+        "price": 6.50,
+        "description": "Regular Old Cucumber Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Tofu Mushroom Soup (Small)",
+        "category": "soup",
+        "price": 5.50,
+        "description": "Small Tofu Mushroom Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Tofu Mushroom Soup (Reg)",
+        "category": "soup",
+        "price": 6.50,
+        "description": "Regular Tofu Mushroom Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "French Onion Soup (Small)",
+        "category": "soup",
+        "price": 5.50,
+        "description": "Small French Onion Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "French Onion Soup (Reg)",
+        "category": "soup",
+        "price": 6.50,
+        "description": "Regular French Onion Soup.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Soup Base Add-on",
+        "category": "soup",
+        "price": 0.50,
+        "description": "Additional soup base.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Soup Topping Add-on",
+        "category": "soup",
+        "price": 1.00,
+        "description": "Additional soup toppings.",
+        "is_sold_out": false
+    },
+    {
+        "name": "American Beef Pie",
+        "category": "pie",
+        "price": 12.90,
+        "description": "Hearty American Beef Pie.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Beef Rendang Pie",
+        "category": "pie",
+        "price": 12.90,
+        "description": "Spicy and aromatic Beef Rendang Pie.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Chicken Pot Pie",
+        "category": "pie",
+        "price": 11.50,
+        "description": "Classic Chicken Pot Pie.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Chilli Crab Pie",
+        "category": "pie",
+        "price": 12.90,
+        "description": "Local favorite Chilli Crab Pie.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Salmon Quiche",
+        "category": "pie",
+        "price": 11.50,
+        "description": "Savory Salmon Quiche.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Chocolate Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Rich Chocolate Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Banana Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Classic Banana Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Berry Cheese Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Sweet Berry Cheese Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Yuzu Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Refreshing Yuzu Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Walnut Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Crunchy Walnut Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Apple Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Spiced Apple Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Velvet Carrot Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Delicious Velvet Carrot Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Earl Grey Muffin",
+        "category": "muffin",
+        "price": 6.90,
+        "description": "Aromatic Earl Grey Muffin.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Butter Croissant",
+        "category": "pastry",
+        "price": 4.50,
+        "description": "Flaky Butter Croissant.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Chocolate Croissant",
+        "category": "pastry",
+        "price": 5.50,
+        "description": "Indulgent Chocolate Croissant.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Cheesy Jalapeño Brezel",
+        "category": "pastry",
+        "price": 5.20,
+        "description": "Savory Cheesy Jalapeño Brezel.",
+        "is_sold_out": false
+    },
+    {
+        "name": "Scones/Swirls",
+        "category": "pastry",
+        "price": 5.50,
+        "description": "Assorted Scones or Swirls.",
+        "is_sold_out": false
+    }
+]
