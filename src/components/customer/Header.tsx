@@ -100,7 +100,7 @@ export default function Header({
                 <div className="flex items-center gap-2">
                     {/* Book a Table — desktop */}
                     <Link
-                        href="/contact"
+                        href="/menu"
                         className="hidden md:flex items-center gap-1.5 px-4 py-2 rounded-full bg-[#7D8E74] text-white text-sm font-semibold hover:bg-[#5a6b52] transition-all shadow-sm hover:shadow-md hover:-translate-y-0.5"
                     >
                         <CalendarCheck size={15} />
@@ -163,7 +163,7 @@ export default function Header({
                         </Link>
                     ))}
                     <Link
-                        href="/contact"
+                        href="/menu"
                         onClick={() => setMobileOpen(false)}
                         className="flex items-center gap-2 mt-2 px-4 py-3 rounded-2xl bg-[#718355] text-white font-semibold text-sm min-h-[44px]"
                     >
