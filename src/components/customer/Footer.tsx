@@ -84,9 +84,9 @@ export default function Footer({
 
                     {/* Hours column */}
                     <div className="flex flex-col gap-4">
-                        <h3 className="text-xs font-bold tracking-[0.15em] uppercase text-stone-500">Hours</h3>
+                        <h3 className="text-xs font-bold tracking-[0.15em] uppercase text-stone-500">Opening Hours</h3>
                         <ul className="space-y-2 text-sm text-stone-400">
-                            <li className="flex justify-between w-full max-w-[240px]"><span>Mon - Fri</span> <span>9:00 AM – 5:00 PM</span></li>
+                            <li className="flex justify-between w-full max-w-[240px]"><span>Monday - Friday</span> <span>9:00 AM – 5:00 PM</span></li>
                             <li className="flex justify-between w-full max-w-[240px]"><span>Sat, Sun & PH</span> <span className="text-stone-500">Closed</span></li>
                         </ul>
                     </div>
