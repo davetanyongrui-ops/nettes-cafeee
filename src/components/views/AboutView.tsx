@@ -402,8 +402,8 @@ export default function AboutView({ settings = {}, isEditable = false }: Props) 
                                                 <a href="tel:+6580981919" className="text-charcoal font-bold text-sm hover:text-sage-rich transition">+65 8098 1919</a>
                                             </div>
                                             <div className="p-5 rounded-2xl bg-oatmeal border border-charcoal/5">
-                                                <p className="text-[10px] text-charcoal/40 uppercase tracking-widest font-black mb-1.5">Hours</p>
-                                                <p className="text-charcoal font-bold text-sm">Mon–Fri 9am–5pm</p>
+                                                <p className="text-[10px] text-charcoal/40 uppercase tracking-widest font-black mb-1.5">Opening Hours</p>
+                                                <p className="text-charcoal font-bold text-sm">Monday–Friday 9am–5pm</p>
                                                 <p className="text-charcoal/40 text-[10px] mt-1 leading-[1.3] max-w-[120px]">Closed Saturday, Sunday and PH</p>
                                             </div>
                                         </div>
