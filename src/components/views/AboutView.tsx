@@ -403,8 +403,8 @@ export default function AboutView({ settings = {}, isEditable = false }: Props) 
                                             </div>
                                             <div className="p-5 rounded-2xl bg-oatmeal border border-charcoal/5">
                                                 <p className="text-[10px] text-charcoal/40 uppercase tracking-widest font-black mb-1.5">Hours</p>
-                                                <p className="text-charcoal font-bold text-sm">Mon–Wed 9–5</p>
-                                                <p className="text-charcoal/30 text-[10px] mt-0.5">Thu–Sun Closed</p>
+                                                <p className="text-charcoal font-bold text-sm">Mon–Fri 9am–5pm</p>
+                                                <p className="text-charcoal/40 text-[10px] mt-1 leading-[1.3] max-w-[120px]">Closed Saturday, Sunday and PH</p>
                                             </div>
                                         </div>
                                     </div>
