@@ -14,8 +14,8 @@ export default async function ContactView({ isEditable = false }: Props) {
         { icon: <MapPin size={20} className="text-emerald-600" />, label: 'Address', key: 'contact_address', fallback: '11 Jalan Tan Tock Seng #01-19, Tan Tock Seng Hospital, Singapore 308433\nNext to Ward Block Taxi Stand' },
         { icon: <Phone size={20} className="text-emerald-600" />, label: 'Phone', key: 'contact_phone', fallback: '+65 8098 1919' },
         { icon: <Mail size={20} className="text-emerald-600" />, label: 'Email', key: 'contact_email', fallback: 'hello@nettescafe.sg' },
-        { icon: <Clock size={20} className="text-emerald-600" />, label: 'Mon – Wed', key: 'contact_hours_weekday', fallback: '9:00 AM – 5:00 PM' },
-        { icon: <Clock size={20} className="text-emerald-600" />, label: 'Thu – Sun', key: 'contact_hours_weekend', fallback: 'Closed' },
+        { icon: <Clock size={20} className="text-emerald-600" />, label: 'Monday - Friday', key: 'contact_hours_weekday', fallback: '9:00 AM – 5:00 PM' },
+        { icon: <Clock size={20} className="text-emerald-600" />, label: 'Sat, Sun & PH', key: 'contact_hours_weekend', fallback: 'Closed' },
     ]
 
     return (
